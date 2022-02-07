@@ -5,11 +5,10 @@ Fabian Matata
 An Angular CLI application that displays quotes, allows user to input new quote, upvote or downvote and also delete the quote.
 ## Live Page
 https://fabianmatata.github.io/angular_quotes/
-## Author
-- [Fabian Matata](https://github.com/FabianMatata)
+
 ## Setup/Installation Requirements
-* Fork this repo
-* Clone this repo 
+* Fork repo
+* Clone repo 
 * Open terminal
 * Navigate to appropriate directory using the cd command
 * type in the command git clone and paste the url of clone and then press enter 
