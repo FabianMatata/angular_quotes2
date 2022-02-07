@@ -28,11 +28,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests.
 
 ## Technologies Used
 Angular js
@@ -40,7 +40,7 @@ Angular js
 If you come across any problems you can reach me at: mfabian601@gmail.com
 ### License
 *This project is licensed under the terms of the MIT license.*
-Copyright (c) 2020 **Fabian Matata**
+Copyright (c) 2021 **Fabian Matata**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
