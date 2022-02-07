@@ -1,4 +1,4 @@
-# Angular Quotes App
+# Angular Quotes
 ## Author
 Fabian Matata
 ## Description
