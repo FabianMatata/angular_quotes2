@@ -4,5 +4,7 @@
     /* font-family: 'Handlee'; */
     src: url(./assets/fonts/Handlee/Handlee-Regular.ttf);
 }
-/* body { background:url(./assets/images/bg2.jpg) ; font-family: 'Handlee';} */
+/* body { background:url(./assets/images/bg2.jpg)} */
+/* body { background:url(./assets/images/bg3.jpeg);} */
+body { background: url(./assets/images/12.jpg);}
 /* body { background:url(https://www.pexels.com/photo/view-of-mountains-during-sunrise-2539418/) } */
